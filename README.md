@@ -1,2 +1,2 @@
 # goTutorial
-go tutorial
+go tutorial project for study
